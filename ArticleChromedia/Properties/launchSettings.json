@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArticleChromedia": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    }
+  }
+}
